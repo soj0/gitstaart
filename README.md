@@ -14,7 +14,7 @@ Atualmente moro em São Paulo-SP, mas ja morei em outras cidades e país também
 - Tocar Bateria
 - Esporte Aquático 
 
-## Atualmente Estudanto 
+## Atualmente Estudando 
 
 - Git e GitHub
 - SQL
