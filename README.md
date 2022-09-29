@@ -10,7 +10,7 @@ Olá, eu sou o Gabriel Sojo
 - Tocar Bateria
 - Esporte Aquático 
 
-## Atualmente Estudanto 
+## Atualmente Estudando 
 
 - Git e GitHub
 - SQL
