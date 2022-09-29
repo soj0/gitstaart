@@ -1,6 +1,6 @@
 # Bem Vindo (a) ao meu perfil
 
-Olá, eu sou o Gabriel OJO
+Olá, eu sou o Gabriel Sojo
 
 ## Meus Hobbies
 
