@@ -2,7 +2,8 @@
 
 Olá, eu sou o Gabriel Sojo, estudante na área Tech.
 
-![FB_IMG_1583101728561](https://user-images.githubusercontent.com/99097060/193135456-482cc2f7-889c-4a03-a8e0-572748b70c5b.jpg)
+![cyber](https://user-images.githubusercontent.com/99097060/193698681-478dcb32-44a1-496e-9a15-39a786e876a7.png)
+
 
 Atualmente moro em São Paulo-SP, mas ja morei em outras cidades e país também.
 
