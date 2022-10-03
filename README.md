@@ -1,6 +1,10 @@
-# Bem Vindo (a) ao meu perfil
+# Bem Vindo (a) ao meu perfil.
 
-Olá, eu sou o Gabriel Sojo
+Olá, eu sou o Gabriel Sojo, estudante na área Tech.
+
+![FB_IMG_1583101728561](https://user-images.githubusercontent.com/99097060/193135456-482cc2f7-889c-4a03-a8e0-572748b70c5b.jpg)
+
+Atualmente moro em São Paulo-SP, mas ja morei em outras cidades e país também.
 
 ## Meus Hobbies
 
@@ -20,7 +24,6 @@ Olá, eu sou o Gabriel Sojo
 
 ## Meus Contatos
 
-- Instagram @gabrielsojo
 - GitHub @soj0
 - Linkedin @gabrielsojo
 - Email sojogabriel@gmail.com
